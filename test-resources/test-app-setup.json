@@ -7,11 +7,11 @@
       }
     ],
     "namespaces": [
-      { "id": "persisted", "persisted": true }
+      { "id": "presence", "persisted": true }
     ],
     "channels": [
       {
-        "name": "persisted:presence_fixtures",
+        "name": "presence:presence_fixtures",
         "presence": [
           { "clientId": "client_bool",    "data": "true" },
           { "clientId": "client_int",     "data": "24" },
