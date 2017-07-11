@@ -92,6 +92,7 @@
 	"80019": "client configured authentication provider request failed",
 	"80020": "maximum connection message rate exceeded (publish)",
 	"80021": "maximum connection message rate exceeded (subscribe)",
+	"80022": "unable to find connection",
 	"80030": "client restriction not satisfied",
 
 	/* channel-related */
