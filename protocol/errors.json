@@ -95,6 +95,7 @@
 	"71300": "Exchange subscription error (unspecified)",
 	"71301": "Subscription disabled",
 	"71302": "Requester has no subscription to this product",
+	"71303": "Unable to add product to subscription as it is already a part of another subscription for the same app. A given product can only be part of one app's subscriptions so that remote refs (e.g. [remote:publisher/product]channelId) can be unambiguously attributed to one subscription",
 
 	/* connection-related */
 	"80000": "connection failed",
