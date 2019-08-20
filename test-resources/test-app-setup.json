@@ -33,6 +33,30 @@
             "encoding": "json/utf-8/cipher+aes-128-cbc/base64"
           }
         ]
+      },
+      {
+        "name": "presence_fixtures_1",
+        "presence": [
+          { "clientId": "client_1",  "data": "payload_1" }
+        ]
+      },
+      {
+        "name": "presence_fixtures_2",
+        "presence": [
+          { "clientId": "client_2",  "data": "payload_2" }
+        ]
+      },
+      {
+        "name": "presence_fixtures_3",
+        "presence": [
+          { "clientId": "client_3",  "data": "payload_3" }
+        ]
+      },
+      {
+        "name": "presence_fixtures_4",
+        "presence": [
+          { "clientId": "client_4",  "data": "payload_4" }
+        ]
       }
     ]
   },
